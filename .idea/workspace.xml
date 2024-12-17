@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb2bd436-e582-4d7e-ba48-75bda18c63ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/PayrollApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/resources/UserResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/resources/exceptions/ResourceExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/resources/exceptions/StandardError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/resources/impl/UserResourceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/services/exceptions/ObjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/java/com/github/murilonerdx/payrollapi/services/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payroll-api/src/test/java/com/github/murilonerdx/payrollapi/PayrollApiApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "murilonerdx"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/murilonerdx/hr-system.git",
+    "accountId": "6447e45b-6854-4425-ab89-25b4eb433d09"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2qKCRMJL4W4nlmAfMncHYETsggg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/T-GAMER/Desktop/hr-system/payroll-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T-GAMER\Desktop\hr-system\payroll-api" />
+      <recent name="C:\Users\T-GAMER\Desktop\hr-system\eureka-server" />
+      <recent name="C:\Users\T-GAMER\Desktop\hr-system\api-gateway" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PayrollApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="payroll-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.murilonerdx.payrollapi.PayrollApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb2bd436-e582-4d7e-ba48-75bda18c63ea" name="Changes" comment="" />
+      <created>1734401870391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734401870391</updated>
+      <workItem from="1734401871417" duration="1102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
